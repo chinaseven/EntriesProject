@@ -1,0 +1,17 @@
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\bin\Debug\net8.0\ServiceConsolidado.exe
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\bin\Debug\net8.0\ServiceConsolidado.deps.json
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\bin\Debug\net8.0\ServiceConsolidado.runtimeconfig.json
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\bin\Debug\net8.0\ServiceConsolidado.dll
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\bin\Debug\net8.0\ServiceConsolidado.pdb
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ServiceConsolidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ServiceConsolidado.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ServiceConsolidado.AssemblyInfo.cs
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ServiceConsolidado.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ServiceConsolidado.dll
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\refint\ServiceConsolidado.dll
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ServiceConsolidado.pdb
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ServiceConsolidado.genruntimeconfig.cache
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ref\ServiceConsolidado.dll
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ServiceConsolidado.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Meu Computador\source\repos\ServiceConsolidado\obj\Debug\net8.0\ServiceC.652FB76E.Up2Date
