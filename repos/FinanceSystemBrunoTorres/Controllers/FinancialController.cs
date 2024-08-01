@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing.Template;
 using System.Text.Json.Serialization;
 using System.Text.Json;
-using FinanceSystemBrunoTorres.Sender;
 using FinanceSystemBrunoTorres.Communication;
 using FinanceSystemBrunoTorres.Processor;
 using System.Net;
@@ -32,7 +31,7 @@ namespace FinanceSystemBrunoTorres.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Entry>> GetAsync(int id)
         {
-            _messageService.Send(id.ToString());
+            //_messageService.Send(id.ToString());
             Entry entry;
             return Ok();
         }

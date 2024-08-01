@@ -31,7 +31,7 @@ namespace FinanceSystemBrunoTorres.Communication
             channelback = connection.CreateModel();
 
             channelback.QueueDeclare(queue: "callback_queue",
-                                 durable: false,
+                                 durable: true,
                                  exclusive: false,
                                  autoDelete: false,
                                  arguments: null);
@@ -47,7 +47,7 @@ namespace FinanceSystemBrunoTorres.Communication
             channel = connection.CreateModel();
 
             channel.QueueDeclare(queue: "entries_queue",
-                                 durable: false,
+                                 durable: true,
                                  exclusive: false,
                                  autoDelete: false,
                                  arguments: null);

@@ -33,7 +33,7 @@ namespace ServiceLançamentos.Communication
             channelback = connection.CreateModel();
 
             channelback.QueueDeclare(queue: "callback_queue",
-                                 durable: false,
+                                 durable: true,
                                  exclusive: false,
                                  autoDelete: false,
                                  arguments: null);
@@ -49,7 +49,7 @@ namespace ServiceLançamentos.Communication
             channel = connection.CreateModel();
 
             channel.QueueDeclare(queue: "entries_queue",
-                                 durable: false,
+                                 durable: true,
                                  exclusive: false,
                                  autoDelete: false,
                                  arguments: null);
