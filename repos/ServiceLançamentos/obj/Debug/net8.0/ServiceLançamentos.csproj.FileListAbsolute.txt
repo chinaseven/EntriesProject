@@ -50,3 +50,4 @@ C:\Users\Meu Computador\source\repos\ServiceLançamentos\bin\Debug\net8.0\Micros
 C:\Users\Meu Computador\source\repos\ServiceLançamentos\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\Meu Computador\source\repos\ServiceLançamentos\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
 C:\Users\Meu Computador\source\repos\ServiceLançamentos\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Meu Computador\source\repos\ServiceLançamentos\obj\Debug\net8.0\ServiceLançamentos.sourcelink.json

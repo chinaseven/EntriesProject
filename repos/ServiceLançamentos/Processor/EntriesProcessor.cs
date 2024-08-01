@@ -11,7 +11,7 @@ using ServiceLançamentos.Database.DbModels;
 
 namespace ServiceLançamentos.Processor
 {
-    public class EntriesProcessor(IEntriesDataBaseService entriesDataBaseService, IMessageService messageService) : IEntriesProcessor
+    public class EntriesProcessor( IMessageService messageService) : IEntriesProcessor
     {
         public void ProcessEntries()
         {
@@ -19,7 +19,7 @@ namespace ServiceLançamentos.Processor
     
             //var e = new 
             //communication.AssignReadEvent(EventHandler<BasicDeliverEventArgs>);
-           
+           /*
             Entry e = new Entry();
             e.Type = "crédito";
             e.Value = "R$22200";
@@ -44,12 +44,9 @@ namespace ServiceLançamentos.Processor
             entriesDataBaseService.InsertEntry(e2);
             entriesDataBaseService.InsertEntry(e3);
             entriesDataBaseService.InsertEntry(e4);
+           */
 
-
-            foreach(Entry en in entriesDataBaseService.ListAllEntries())
-            {
-                Console.WriteLine(en.Id.ToString());
-            }
+    
 
             var m = messageService.setup();
             messageService.Receive(m, OnReceive);
@@ -57,13 +54,13 @@ namespace ServiceLançamentos.Processor
             Console.ReadKey();
         }
 
-        private void OnReceive(object? sender, BasicDeliverEventArgs e)
+        private void OnReceive(object? sender, BasicDeliverEventArgs ea)
         {
-            foreach (Entry en in entriesDataBaseService.ListAllEntries())
-            {
-                Console.WriteLine(en.Id.ToString());
-            }
+            byte[] body = ea.Body.ToArray();
+            var message = Encoding.UTF8.GetString(body);
+            Console.WriteLine($" [x] Received {message}");
 
+            messageService.Send("back to received");
         }
     }
 }

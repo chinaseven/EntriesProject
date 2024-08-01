@@ -1,6 +1,6 @@
 namespace FinanceSystemBrunoTorres.Model
 {
-    public class Transaction
+    public class Entry
     {
         public string Id { get; set; }
         public string Type { get; set; }

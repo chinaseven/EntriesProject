@@ -31,3 +31,5 @@ C:\Users\Meu Computador\source\repos\FinanceSystemBrunoTorres\obj\Debug\net8.0\F
 C:\Users\Meu Computador\source\repos\FinanceSystemBrunoTorres\obj\Debug\net8.0\FinanceSystemBrunoTorres.genruntimeconfig.cache
 C:\Users\Meu Computador\source\repos\FinanceSystemBrunoTorres\obj\Debug\net8.0\ref\FinanceSystemBrunoTorres.dll
 C:\Users\Meu Computador\source\repos\FinanceSystemBrunoTorres\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Meu Computador\source\repos\FinanceSystemBrunoTorres\obj\Debug\net8.0\FinanceSystemBrunoTorres.sourcelink.json
+C:\Users\Meu Computador\source\repos\FinanceSystemBrunoTorres\bin\Debug\net8.0\Newtonsoft.Json.dll

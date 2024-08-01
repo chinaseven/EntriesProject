@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceSystemBrunoTorres", "FinanceSystemBrunoTorres.csproj", "{1ADDF272-623F-417D-81CA-ACBCA156D81A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinanceSystemBrunoTorres", "FinanceSystemBrunoTorres.csproj", "{1ADDF272-623F-417D-81CA-ACBCA156D81A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLançamentos", "..\ServiceLançamentos\ServiceLançamentos.csproj", "{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceLançamentos", "..\ServiceLançamentos\ServiceLançamentos.csproj", "{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceConsolidado", "..\ServiceConsolidado\ServiceConsolidado.csproj", "{E26412D9-D9E0-4FFA-A387-21195A762669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceConsolidado", "..\ServiceConsolidado\ServiceConsolidado.csproj", "{E26412D9-D9E0-4FFA-A387-21195A762669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessage", "..\SendMessage\SendMessage.csproj", "{9894274B-4082-4D34-88CA-737C171CF715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SendMessage", "..\SendMessage\SendMessage.csproj", "{9894274B-4082-4D34-88CA-737C171CF715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeviceDataBase", "..\SeviceDataBase\SeviceDataBase.csproj", "{737F49A4-E399-4398-8768-6838F1B4C733}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9894274B-4082-4D34-88CA-737C171CF715}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9894274B-4082-4D34-88CA-737C171CF715}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9894274B-4082-4D34-88CA-737C171CF715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737F49A4-E399-4398-8768-6838F1B4C733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737F49A4-E399-4398-8768-6838F1B4C733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737F49A4-E399-4398-8768-6838F1B4C733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737F49A4-E399-4398-8768-6838F1B4C733}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

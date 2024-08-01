@@ -1,4 +1,9 @@
-
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using FinanceSystemBrunoTorres.Communication;
+using FinanceSystemBrunoTorres.Processor;
+using FinanceSystemBrunoTorres.Controllers;
+using FinanceSystemBrunoTorres.Service;
 namespace FinanceSystemBrunoTorres
 {
     public class Program
@@ -13,7 +18,12 @@ namespace FinanceSystemBrunoTorres
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            builder.Services.
+                AddHostedService<EntriesService>().
+                AddSingleton<IEntriesProcessor, EntriesProcessor>().
+                AddSingleton<IMessageService, MessageService>();
+                
+            //AddHostedService<EntriesService>();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -29,6 +39,7 @@ namespace FinanceSystemBrunoTorres
             app.MapControllers();
 
             app.Run();
+            
         }
     }
 }

@@ -1,8 +1,9 @@
 ﻿using RabbitMQ;
 using RabbitMQ.Client;
 using System.Text;
+using System.Threading.Channels;
 
-namespace FinanceSystemBrunoTorres.Communication
+namespace FinanceSystemBrunoTorres.Sender
 {
 
 
@@ -32,7 +33,7 @@ namespace FinanceSystemBrunoTorres.Communication
         
         public CommunicationBuilder createQueue()
         {
-            communication.queueDeclareOk = communication.channel.QueueDeclare(queue: "hello",
+            communication.queueDeclareOk = communication.channel.QueueDeclare(queue: "entries_queue",
                                  durable: false,
                                  exclusive: false,
                                  autoDelete: false,
@@ -49,21 +50,14 @@ namespace FinanceSystemBrunoTorres.Communication
 
            
 
-        public void call()
+        public CommunicationBuilder createModel()
         {
-            /*var factory = new ConnectionFactory { HostName = "localhost" };
-            using var connection = factory.CreateConnection();
-            using var channel = connection.CreateModel();
-
-            channel.QueueDeclare(queue: "hello",
-                                 durable: false,
-                                 exclusive: false,
-                                 autoDelete: false,
-                                 arguments: null);
-            */
-      
-       
-
+              communication.channel.QueueDeclare(queue: "entries_queue",
+                     durable: true,
+                     exclusive: false,
+                     autoDelete: false,
+                     arguments: null);
+            return this;
         }
     }
 }

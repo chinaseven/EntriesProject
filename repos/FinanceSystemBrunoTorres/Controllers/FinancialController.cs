@@ -1,7 +1,14 @@
 using FinanceSystemBrunoTorres.Model;
 using Microsoft.AspNetCore.Mvc;
-using FinanceSystemBrunoTorres.Communication;
 using Microsoft.AspNetCore.Routing.Template;
+using System.Text.Json.Serialization;
+using System.Text.Json;
+using FinanceSystemBrunoTorres.Sender;
+using FinanceSystemBrunoTorres.Communication;
+using FinanceSystemBrunoTorres.Processor;
+using System.Net;
+using System;
+using RabbitMQ.Client.Events;
 
 namespace FinanceSystemBrunoTorres.Controllers
 {
@@ -11,46 +18,53 @@ namespace FinanceSystemBrunoTorres.Controllers
     {
 
         private readonly ILogger<FinancialController> _logger;
+        private readonly IMessageService _messageService;
+        private readonly IEntriesProcessor _processor;
+        public event EventHandler myEvent;
 
-        public FinancialController(ILogger<FinancialController> logger)
+        public FinancialController(ILogger<FinancialController> logger, IMessageService messageService, IEntriesProcessor processor)
         {
             _logger = logger;
+            _messageService = messageService;
+            _processor = processor;
         }
 
-        [HttpGet("sendDummy")]
-        public string sendDummy()
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Entry>> GetAsync(int id)
         {
-            //ISendData sendData = new SendData();
-            //sendData.send();
-
-            var communication = new CommunicationBuilder().CreateConnectionFactory().CreateConnection().createChannel().createQueue().build();
-            communication.Send("Agora vai!");
-            return "Sent";
-
+            _messageService.Send(id.ToString());
+            Entry entry;
+            return Ok();
         }
 
-        [HttpGet("GetTransactions")]
-        public IEnumerable<Transaction> Get()
+        [HttpPost("postEntry")]
+        public async Task<ActionResult<Entry>> CreateAsync([FromBody]Entry entry)
         {
+            if (entry != null)
+            {
+                string e = JsonSerializer.Serialize(entry);
+                _messageService.Send(e);
+                
+                return Ok();
+            }
+               
+            else
+                return BadRequest();
+        }
 
-            
-            Transaction t = new Transaction();
-            t.Type = "crédito";
-            t.Value = "R$200";
-            t.Date = DateTime.Now;
-            t.Id = new Guid().ToString();
-            Transaction t2 = new Transaction();
-            t2.Type = "débito";
-            t2.Value = "R$400";
-            t2.Date = DateTime.Now;
-            t2.Id = new Guid().ToString();
-            List<Transaction> list = new List<Transaction>();
-            list.Add(t);
-            list.Add(t2);
-            //IEnumerable<Transaction> transactions = list.r;
 
-            return list;
-            
+        [HttpPost("updateEntry")]
+        public async Task<ActionResult<Entry>> UpdateAsync([FromBody] Entry entry)
+        {
+            if (entry != null)
+            {
+                string e = JsonSerializer.Serialize(entry);
+                _messageService.Send(e);
+                return Ok();
+            }
+
+            else
+                return BadRequest();
         }
     }
 }

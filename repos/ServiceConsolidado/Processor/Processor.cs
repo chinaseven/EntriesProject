@@ -8,12 +8,11 @@ using ServiceConsolidado.Operations;
 
 namespace ServiceConsolidado.Processor
 {
-    public class Processor:IProcessor
+    public class Processor
     { 
         public void Process(Operations.Operations op)
         {
-            switch (op)
-                case :
+    
         }
     }
 }
