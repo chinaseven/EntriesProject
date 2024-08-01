@@ -3,8 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\communication\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\communication\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +15,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\communication\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:communication\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\controllers\\financialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,9 +39,6 @@
       "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{737F49A4-E399-4398-8768-6838F1B4C733}|..\\SeviceDataBase\\SeviceDataBase.csproj|c:\\users\\meu computador\\source\\repos\\sevicedatabase\\sevicedatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -44,9 +47,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\service\\entriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\communication\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\communication\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -127,11 +127,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Program.cs",
               "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Program.cs",
@@ -140,64 +140,24 @@
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T22:12:56.961Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EntriesService.cs",
-              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Service\\EntriesService.cs",
-              "RelativeDocumentMoniker": "Service\\EntriesService.cs",
-              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Service\\EntriesService.cs",
-              "RelativeToolTip": "Service\\EntriesService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T19:22:50.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FinancialController.cs",
-              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Controllers\\FinancialController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FinancialController.cs",
-              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Controllers\\FinancialController.cs",
-              "RelativeToolTip": "Controllers\\FinancialController.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAnwD0AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T22:22:22.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IEntriesProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
-              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
-              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
-              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:03:28.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MessageService.cs",
               "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Communication\\MessageService.cs",
               "RelativeDocumentMoniker": "Communication\\MessageService.cs",
               "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Communication\\MessageService.cs",
               "RelativeToolTip": "Communication\\MessageService.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAwFMAAAAIAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T01:32:19.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EntriesProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Processor\\EntriesProcessor.cs",
               "RelativeDocumentMoniker": "Processor\\EntriesProcessor.cs",
@@ -209,38 +169,33 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SeviceDataBase",
-              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\SeviceDataBase.csproj",
-              "RelativeDocumentMoniker": "..\\SeviceDataBase\\SeviceDataBase.csproj",
-              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\SeviceDataBase.csproj",
-              "RelativeToolTip": "..\\SeviceDataBase\\SeviceDataBase.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-01T00:51:37.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAvAAAA",
+              "DocumentIndex": 0,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAADsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T22:09:30.33Z",
+              "WhenOpened": "2024-07-31T07:48:50.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "EntriesService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Service\\EntriesService.cs",
+              "RelativeDocumentMoniker": "Service\\EntriesService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Service\\EntriesService.cs",
+              "RelativeToolTip": "Service\\EntriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:22:50.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "IMessageService.cs",
               "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Communication\\IMessageService.cs",
               "RelativeDocumentMoniker": "Communication\\IMessageService.cs",
@@ -253,7 +208,68 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntriesProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwD4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:02:56.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEntriesProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:03:28.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinancialController.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Controllers\\FinancialController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FinancialController.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Controllers\\FinancialController.cs",
+              "RelativeToolTip": "Controllers\\FinancialController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAnwD0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:22:22.715Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "SeviceDataBase.csproj",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\SeviceDataBase.csproj",
+              "RelativeDocumentMoniker": "..\\SeviceDataBase\\SeviceDataBase.csproj",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\SeviceDataBase.csproj",
+              "RelativeToolTip": "..\\SeviceDataBase\\SeviceDataBase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T00:51:37.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:09:30.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IEntriesProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Processor\\IEntriesProcessor.cs",
               "RelativeDocumentMoniker": "Processor\\IEntriesProcessor.cs",
@@ -261,25 +277,11 @@
               "RelativeToolTip": "Processor\\IEntriesProcessor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T01:38:44.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T01:38:44.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EntriesProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
-              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
-              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
-              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAgwEIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:02:56.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "EntriesService.cs",
               "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Service\\EntriesService.cs",
               "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Service\\EntriesService.cs",
@@ -287,21 +289,7 @@
               "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Service\\EntriesService.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAwwBAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:01:21.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MessageService.cs",
-              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
-              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
-              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
-              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAADwv2AAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:48:50.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T05:01:21.326Z"
             },
             {
               "$type": "Document",
@@ -313,8 +301,7 @@
               "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Communication\\IMessageService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T07:49:07.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T07:49:07.506Z"
             },
             {
               "$type": "Document",
@@ -326,8 +313,7 @@
               "RelativeToolTip": "..\\ServiceConsolidado\\Processor\\IProcessor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T02:39:28.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T02:39:28.019Z"
             },
             {
               "$type": "Document",
@@ -339,8 +325,7 @@
               "RelativeToolTip": "..\\ServiceConsolidado\\Processor\\Processor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T02:39:09.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T02:39:09.675Z"
             },
             {
               "$type": "Document",
@@ -352,8 +337,7 @@
               "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-31T06:38:21.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T06:38:21.65Z"
             },
             {
               "$type": "Document",
@@ -365,8 +349,7 @@
               "RelativeToolTip": "..\\SeviceDataBase\\Processor\\EntriesProcessor.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAgwEEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T18:06:30.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T18:06:30.764Z"
             },
             {
               "$type": "Document",
@@ -378,8 +361,7 @@
               "RelativeToolTip": "..\\SeviceDataBase\\Communication\\MessageService.cs",
               "ViewState": "AQIAAD4AAAAAAAAAAAAwwFAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:56:52.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:56:52.164Z"
             },
             {
               "$type": "Document",
@@ -391,8 +373,7 @@
               "RelativeToolTip": "..\\SeviceDataBase\\Communication\\IMessageService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:57:16.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:57:16.941Z"
             },
             {
               "$type": "Document",
@@ -404,8 +385,7 @@
               "RelativeToolTip": "..\\SeviceDataBase\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAApwBQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:51:25.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:51:25.851Z"
             },
             {
               "$type": "Document",
@@ -417,8 +397,7 @@
               "RelativeToolTip": "Communication\\Communication.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAIwBQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T02:02:06.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T02:02:06.044Z"
             },
             {
               "$type": "Document",
@@ -430,8 +409,7 @@
               "RelativeToolTip": "Communication\\CommunicationBuilder.cs",
               "ViewState": "AQIAABwAAAAAAAAAAAAQwCMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T01:46:14.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T01:46:14.243Z"
             },
             {
               "$type": "Document",
@@ -443,8 +421,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T00:32:40.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:32:40.543Z"
             },
             {
               "$type": "Document",
@@ -456,8 +433,7 @@
               "RelativeToolTip": "Model\\Entry.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T23:36:47.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T23:36:47.289Z"
             },
             {
               "$type": "Document",
@@ -469,8 +445,7 @@
               "RelativeToolTip": "FinanceSystemBrunoTorres.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-30T22:22:15.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T22:22:15.195Z"
             },
             {
               "$type": "Document",
@@ -482,8 +457,7 @@
               "RelativeToolTip": "..\\SendMessage\\SendMessage.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-31T08:05:30.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:05:30.215Z"
             },
             {
               "$type": "Document",
@@ -495,8 +469,7 @@
               "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Database\\EntriesDataBaseService.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAiwBcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T03:05:02.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T03:05:02.573Z"
             },
             {
               "$type": "Document",
@@ -508,8 +481,7 @@
               "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Database\\EntriesDbContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAIBJwA4AAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T03:27:55.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T03:27:55.554Z"
             },
             {
               "$type": "Document",
@@ -521,8 +493,7 @@
               "RelativeToolTip": "..\\SendMessage\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAcwCQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T23:16:50.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T23:16:50.439Z"
             },
             {
               "$type": "Document",
@@ -534,8 +505,7 @@
               "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Database\\IEntriesDataBaseService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T03:32:25.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T03:32:25.644Z"
             },
             {
               "$type": "Document",
@@ -547,8 +517,7 @@
               "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Database\\DbModels\\Entry.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T03:43:40.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T03:43:40.446Z"
             },
             {
               "$type": "Document",
@@ -560,8 +529,7 @@
               "RelativeToolTip": "..\\ServiceConsolidado\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T22:14:01.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T22:14:01.943Z"
             },
             {
               "$type": "Document",
@@ -573,8 +541,7 @@
               "RelativeToolTip": "..\\ServiceConsolidado\\Operations\\IOperations.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T03:02:13.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T03:02:13.797Z"
             },
             {
               "$type": "Document",
@@ -586,8 +553,11 @@
               "RelativeToolTip": "..\\ServiceConsolidado\\Operations\\Operations.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T02:42:40.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T02:42:40.422Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

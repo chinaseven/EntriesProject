@@ -60,7 +60,7 @@ namespace ServiceLançamentos.Processor
             var message = Encoding.UTF8.GetString(body);
             Console.WriteLine($" [x] Received {message}");
 
-            messageService.Send("back to received");
+            messageService.Send("callback received succesfully!");
         }
     }
 }

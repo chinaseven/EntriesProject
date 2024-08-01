@@ -33,7 +33,7 @@ namespace ServiceLançamentos.Communication
             channelback = connection.CreateModel();
 
             channelback.QueueDeclare(queue: "callback_queue",
-                                 durable: true,
+                                 durable: false,
                                  exclusive: false,
                                  autoDelete: false,
                                  arguments: null);
@@ -49,7 +49,7 @@ namespace ServiceLançamentos.Communication
             channel = connection.CreateModel();
 
             channel.QueueDeclare(queue: "entries_queue",
-                                 durable: true,
+                                 durable: false,
                                  exclusive: false,
                                  autoDelete: false,
                                  arguments: null);
@@ -57,30 +57,7 @@ namespace ServiceLançamentos.Communication
             return channel;
 
         }
-        public IModel setupQueue()
-        {
-            var factory = new ConnectionFactory { HostName = "localhost" };
-            using var connection = factory.CreateConnection();
-            using var channel = connection.CreateModel();
-
-            channel.QueueDeclare(queue: "entries_queue",
-                                 durable: true,
-                                 exclusive: false,
-                                 autoDelete: false,
-                                 arguments: null);
-
-            channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);
-
-            Console.WriteLine(" [*] Waiting for messages.");
-
-            var consumer = new EventingBasicConsumer(channel);
-
-            channel.BasicConsume(queue: "entries_queue",
-                                 autoAck: false,
-                                 consumer: consumer);
-
-            return channel;
-        }
+      
 
         public EventingBasicConsumer Receive(IModel model, EventHandler<BasicDeliverEventArgs> e)
         {
