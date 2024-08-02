@@ -11,5 +11,5 @@ com o JSON:
     "value": "200.00",
     "date": "2024-01-01"
 }
-Observar Ids das entradas no console do ServiceLançamentos
+Observar mensagens no console do ServiceLançamentos
 e o Callback no console FinanceSystemBrunoTorres
