@@ -1,0 +1,546 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\communication\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\communication\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\communication\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:communication\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\service\\entriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:service\\entriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737F49A4-E399-4398-8768-6838F1B4C733}|..\\SeviceDataBase\\SeviceDataBase.csproj|c:\\users\\meu computador\\source\\repos\\sevicedatabase\\sevicedatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\processor\\ientriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:processor\\ientriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\communication\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:communication\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\servicelan\u00E7amentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\model\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:model\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\controllers\\financialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:controllers\\financialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\processor\\ientriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\service\\entriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26412D9-D9E0-4FFA-A387-21195A762669}|..\\ServiceConsolidado\\ServiceConsolidado.csproj|c:\\users\\meu computador\\source\\repos\\serviceconsolidado\\processor\\processor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26412D9-D9E0-4FFA-A387-21195A762669}|..\\ServiceConsolidado\\ServiceConsolidado.csproj|c:\\users\\meu computador\\source\\repos\\serviceconsolidado\\processor\\iprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737F49A4-E399-4398-8768-6838F1B4C733}|..\\SeviceDataBase\\SeviceDataBase.csproj|c:\\users\\meu computador\\source\\repos\\sevicedatabase\\processor\\entriesprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737F49A4-E399-4398-8768-6838F1B4C733}|..\\SeviceDataBase\\SeviceDataBase.csproj|c:\\users\\meu computador\\source\\repos\\sevicedatabase\\communication\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737F49A4-E399-4398-8768-6838F1B4C733}|..\\SeviceDataBase\\SeviceDataBase.csproj|c:\\users\\meu computador\\source\\repos\\sevicedatabase\\communication\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737F49A4-E399-4398-8768-6838F1B4C733}|..\\SeviceDataBase\\SeviceDataBase.csproj|c:\\users\\meu computador\\source\\repos\\sevicedatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|c:\\users\\meu computador\\source\\repos\\financesystembrunotorres\\financesystembrunotorres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1ADDF272-623F-417D-81CA-ACBCA156D81A}|FinanceSystemBrunoTorres.csproj|solutionrelative:financesystembrunotorres.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9894274B-4082-4D34-88CA-737C171CF715}|..\\SendMessage\\SendMessage.csproj|c:\\users\\meu computador\\source\\repos\\sendmessage\\sendmessage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\database\\entriesdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\database\\entriesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9894274B-4082-4D34-88CA-737C171CF715}|..\\SendMessage\\SendMessage.csproj|c:\\users\\meu computador\\source\\repos\\sendmessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\database\\ientriesdatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A56DB8C-9DCA-4DF1-9811-5349C7407B06}|..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj|c:\\users\\meu computador\\source\\repos\\servicelan\u00E7amentos\\database\\dbmodels\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26412D9-D9E0-4FFA-A387-21195A762669}|..\\ServiceConsolidado\\ServiceConsolidado.csproj|c:\\users\\meu computador\\source\\repos\\serviceconsolidado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26412D9-D9E0-4FFA-A387-21195A762669}|..\\ServiceConsolidado\\ServiceConsolidado.csproj|c:\\users\\meu computador\\source\\repos\\serviceconsolidado\\operations\\ioperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26412D9-D9E0-4FFA-A387-21195A762669}|..\\ServiceConsolidado\\ServiceConsolidado.csproj|c:\\users\\meu computador\\source\\repos\\serviceconsolidado\\operations\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Program.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Program.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:12:56.961Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntriesService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Service\\EntriesService.cs",
+              "RelativeDocumentMoniker": "Service\\EntriesService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Service\\EntriesService.cs",
+              "RelativeToolTip": "Service\\EntriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:22:50.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeviceDataBase.csproj",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\SeviceDataBase.csproj",
+              "RelativeDocumentMoniker": "..\\SeviceDataBase\\SeviceDataBase.csproj",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\SeviceDataBase.csproj",
+              "RelativeToolTip": "..\\SeviceDataBase\\SeviceDataBase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T00:51:37.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Communication\\IMessageService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Communication\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Communication\\IMessageService.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Communication\\IMessageService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:49:07.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntriesProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Processor\\EntriesProcessor.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwD4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:02:56.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Communication\\MessageService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:48:50.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntriesProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Processor\\EntriesProcessor.cs",
+              "RelativeDocumentMoniker": "Processor\\EntriesProcessor.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Processor\\EntriesProcessor.cs",
+              "RelativeToolTip": "Processor\\EntriesProcessor.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:28:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Communication\\MessageService.cs",
+              "RelativeDocumentMoniker": "Communication\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Communication\\MessageService.cs",
+              "RelativeToolTip": "Communication\\MessageService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:32:19.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEntriesProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Processor\\IEntriesProcessor.cs",
+              "RelativeDocumentMoniker": "Processor\\IEntriesProcessor.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Processor\\IEntriesProcessor.cs",
+              "RelativeToolTip": "Processor\\IEntriesProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:38:44.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Communication\\IMessageService.cs",
+              "RelativeDocumentMoniker": "Communication\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Communication\\IMessageService.cs",
+              "RelativeToolTip": "Communication\\IMessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:32:05.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:09:30.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceLan\u00E7amentos.csproj",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\ServiceLan\u00E7amentos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T06:38:21.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Model\\Entry.cs",
+              "RelativeDocumentMoniker": "Model\\Entry.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Model\\Entry.cs",
+              "RelativeToolTip": "Model\\Entry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:36:47.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FinancialController.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Controllers\\FinancialController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FinancialController.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\Controllers\\FinancialController.cs",
+              "RelativeToolTip": "Controllers\\FinancialController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:22:22.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEntriesProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Processor\\IEntriesProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:03:28.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EntriesService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Service\\EntriesService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Service\\EntriesService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Service\\EntriesService.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Service\\EntriesService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:01:21.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Processor\\IProcessor.cs",
+              "RelativeDocumentMoniker": "..\\ServiceConsolidado\\Processor\\IProcessor.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Processor\\IProcessor.cs",
+              "RelativeToolTip": "..\\ServiceConsolidado\\Processor\\IProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:39:28.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Processor.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Processor\\Processor.cs",
+              "RelativeDocumentMoniker": "..\\ServiceConsolidado\\Processor\\Processor.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Processor\\Processor.cs",
+              "RelativeToolTip": "..\\ServiceConsolidado\\Processor\\Processor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:39:09.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EntriesProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\Processor\\EntriesProcessor.cs",
+              "RelativeDocumentMoniker": "..\\SeviceDataBase\\Processor\\EntriesProcessor.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\Processor\\EntriesProcessor.cs",
+              "RelativeToolTip": "..\\SeviceDataBase\\Processor\\EntriesProcessor.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:06:30.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\Communication\\MessageService.cs",
+              "RelativeDocumentMoniker": "..\\SeviceDataBase\\Communication\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\Communication\\MessageService.cs",
+              "RelativeToolTip": "..\\SeviceDataBase\\Communication\\MessageService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAwwFAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:56:52.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\Communication\\IMessageService.cs",
+              "RelativeDocumentMoniker": "..\\SeviceDataBase\\Communication\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\Communication\\IMessageService.cs",
+              "RelativeToolTip": "..\\SeviceDataBase\\Communication\\IMessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:57:16.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SeviceDataBase\\Program.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\SeviceDataBase\\Program.cs",
+              "RelativeToolTip": "..\\SeviceDataBase\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAApwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:51:25.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T00:32:40.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FinanceSystemBrunoTorres.csproj",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\FinanceSystemBrunoTorres.csproj",
+              "RelativeDocumentMoniker": "FinanceSystemBrunoTorres.csproj",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\FinanceSystemBrunoTorres\\FinanceSystemBrunoTorres.csproj",
+              "RelativeToolTip": "FinanceSystemBrunoTorres.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T22:22:15.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SendMessage.csproj",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\SendMessage\\SendMessage.csproj",
+              "RelativeDocumentMoniker": "..\\SendMessage\\SendMessage.csproj",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\SendMessage\\SendMessage.csproj",
+              "RelativeToolTip": "..\\SendMessage\\SendMessage.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T08:05:30.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EntriesDataBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Database\\EntriesDataBaseService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Database\\EntriesDataBaseService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Database\\EntriesDataBaseService.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Database\\EntriesDataBaseService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:05:02.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EntriesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Database\\EntriesDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Database\\EntriesDbContext.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Database\\EntriesDbContext.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Database\\EntriesDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwA4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:27:55.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\SendMessage\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SendMessage\\Program.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\SendMessage\\Program.cs",
+              "RelativeToolTip": "..\\SendMessage\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T23:16:50.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEntriesDataBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Database\\IEntriesDataBaseService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Database\\IEntriesDataBaseService.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Database\\IEntriesDataBaseService.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Database\\IEntriesDataBaseService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:32:25.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Database\\DbModels\\Entry.cs",
+              "RelativeDocumentMoniker": "..\\ServiceLan\u00E7amentos\\Database\\DbModels\\Entry.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceLan\u00E7amentos\\Database\\DbModels\\Entry.cs",
+              "RelativeToolTip": "..\\ServiceLan\u00E7amentos\\Database\\DbModels\\Entry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:43:40.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ServiceConsolidado\\Program.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Program.cs",
+              "RelativeToolTip": "..\\ServiceConsolidado\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:14:01.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Operations\\IOperations.cs",
+              "RelativeDocumentMoniker": "..\\ServiceConsolidado\\Operations\\IOperations.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Operations\\IOperations.cs",
+              "RelativeToolTip": "..\\ServiceConsolidado\\Operations\\IOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T03:02:13.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Operations.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Operations\\Operations.cs",
+              "RelativeDocumentMoniker": "..\\ServiceConsolidado\\Operations\\Operations.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\source\\repos\\ServiceConsolidado\\Operations\\Operations.cs",
+              "RelativeToolTip": "..\\ServiceConsolidado\\Operations\\Operations.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T02:42:40.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

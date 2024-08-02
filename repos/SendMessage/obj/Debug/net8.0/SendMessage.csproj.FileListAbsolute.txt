@@ -1,0 +1,17 @@
+C:\Users\Meu Computador\source\repos\SendMessage\bin\Debug\net8.0\SendMessage.exe
+C:\Users\Meu Computador\source\repos\SendMessage\bin\Debug\net8.0\SendMessage.deps.json
+C:\Users\Meu Computador\source\repos\SendMessage\bin\Debug\net8.0\SendMessage.runtimeconfig.json
+C:\Users\Meu Computador\source\repos\SendMessage\bin\Debug\net8.0\SendMessage.dll
+C:\Users\Meu Computador\source\repos\SendMessage\bin\Debug\net8.0\SendMessage.pdb
+C:\Users\Meu Computador\source\repos\SendMessage\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\SendMessage.csproj.AssemblyReference.cache
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\SendMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\SendMessage.AssemblyInfoInputs.cache
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\SendMessage.AssemblyInfo.cs
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\SendMessage.csproj.CoreCompileInputs.cache
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\SendMess.285E62A9.Up2Date
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\SendMessage.dll
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\refint\SendMessage.dll
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\SendMessage.pdb
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\SendMessage.genruntimeconfig.cache
+C:\Users\Meu Computador\source\repos\SendMessage\obj\Debug\net8.0\ref\SendMessage.dll
